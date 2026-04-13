@@ -4,8 +4,6 @@
 Lawrence Livermore National Laboratory
 Mail Stop 413, 7000 East Ave, Livermore, California 94551 USA
 
-📧 [samanta1@llnl.gov](mailto:samanta1@llnl.gov) · 📞 925-423-6215
-
 ---
 
 ## Education
@@ -78,7 +76,34 @@ Mail Stop 413, 7000 East Ave, Livermore, California 94551 USA
 - Ying Shi Teh (PhD – Caltech, May 2021 – August 2022)
 
 ### Graduate Student Interns
-Sarwesh Rauniyar (Arizona), Sudheesh Ethirajan (UC Davis), Prashanth Ravichandar (USC), Tirtha Vinchurkar (CMU), Shashank Kushwaha (UIUC), Xiao Han (Brown), Vincent Martinetto (UC Merced), Kaiyang Wang (Cornell), Liming Zhao (Cornell), Nikhil Agrawal (UC Berkeley), Collin Lewin (MIT), Ram Sudha (UT Austin), Ivan Zanardi (UIUC), Weishi Wang (Dartmouth), Haoyuan Shi (Cornell), Tianjiao Li (Cornell), Jun Yang (Dartmouth), Gopal Iyer (Brown), Zhitao Chen (UCSB), Bajrang Sharma (Texas A&M), Shi Zhu (Brown), Shashikant Kumar (Georgia Tech), Nabankur Dasgupta (Penn State), Seung Ho Hahn (Penn State), Chiraag Nataraj (Brown), Ian Bakst (Colorado State), Andrew Lange (UC Davis), Loris Ercole (University of Trento)
+- Sarwesh Rauniyar (Arizona)
+- Sudheesh Ethirajan (UC Davis)
+- Prashanth Ravichandar (USC)
+- Tirtha Vinchurkar (CMU)
+- Shashank Kushwaha (UIUC)
+- Xiao Han (Brown)
+- Vincent Martinetto (UC Merced)
+- Kaiyang Wang (Cornell)
+- Liming Zhao (Cornell)
+- Nikhil Agrawal (UC Berkeley)
+- Collin Lewin (MIT)
+- Ram Sudha (UT Austin)
+- Ivan Zanardi (UIUC)
+- Weishi Wang (Dartmouth)
+- Haoyuan Shi (Cornell)
+- Tianjiao Li (Cornell)
+- Jun Yang (Dartmouth)
+- Gopal Iyer (Brown)
+- Zhitao Chen (UCSB)
+- Bajrang Sharma (Texas A&M)
+- Shi Zhu (Brown)
+- Shashikant Kumar (Georgia Tech)
+- Nabankur Dasgupta (Penn State)
+- Seung Ho Hahn (Penn State)
+- Chiraag Nataraj (Brown)
+- Ian Bakst (Colorado State)
+- Andrew Lange (UC Davis)
+- Loris Ercole (University of Trento)
 
 ### High School Interns
 Mentored high school students through the Livermore Lab Foundation Summer Internship (2019, 2021, 2022).
