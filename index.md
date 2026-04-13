@@ -1,4 +1,4 @@
-# Amit Samanta
+<!---- # Amit Samanta ----->
 
 **Staff Scientist**
 Lawrence Livermore National Laboratory
